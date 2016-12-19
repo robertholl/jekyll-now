@@ -12,4 +12,4 @@ My Resume will go here.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rbikerider2005@gmail.com](mailto:rbikerider2005@gmail.com)
