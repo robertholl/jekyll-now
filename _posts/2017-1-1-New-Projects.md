@@ -3,7 +3,7 @@ layout: post
 title: New Project Initiatives
 ---
 
-- [] CMEP File Analyzer
+- [ ] CMEP File Analyzer
 - [x] Parser
 
 
